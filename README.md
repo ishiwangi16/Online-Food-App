@@ -30,31 +30,32 @@ Preview:
 
 ## 📂 Project Structure
 
-
+```text
 Online Food-App
 ├── public/
-│ ├── images/
-│ │ └── screenshot.png # App preview image
-│ └── index.html
+│   ├── images/
+│   │   └── screenshot.png      # App preview image
+│   └── index.html
 ├── src/
-│ ├── components/
-│ │ ├── Toast/
-│ │ │ ├── Toast.css
-│ │ │ └── Toast.js
-│ │ ├── Navigation.js
-│ │ ├── Product.js
-│ │ └── Products.js
-│ ├── pages/
-│ │ ├── Cart.js
-│ │ ├── Home.js
-│ │ ├── ProductsPage.js
-│ │ └── SingleProduct.js
-│ ├── CartContext.js
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
+│   ├── components/
+│   │   ├── Toast/
+│   │   │   ├── Toast.css
+│   │   │   └── Toast.js
+│   │   ├── Navigation.js
+│   │   ├── Product.js
+│   │   └── Products.js
+│   ├── pages/
+│   │   ├── Cart.js
+│   │   ├── Home.js
+│   │   ├── ProductsPage.js
+│   │   └── SingleProduct.js
+│   ├── CartContext.js
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
 ├── package.json
 └── README.md
+
 
 
 
