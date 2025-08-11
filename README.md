@@ -1,4 +1,4 @@
-🍕 Vimal Food Pizza - React Shopping Cart App
+🍕 Online Food-App->React Shopping Cart App
 
 A fully functional and beautifully designed React Pizza Cart Application built with Context API, Tailwind CSS, and live toast notifications. Includes cart persistence via localStorage and dynamic product fetching from API.
 
