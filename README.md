@@ -11,42 +11,52 @@ Preview:
 
 ![alt text](image-3.png)
 
-🚀 Features
+# 🍕 Online Food-App
 
-✅ Dynamic Pizza Recipes from https://dummyjson.com/recipes
-✅ Add to Cart with quantity counter
-✅ LocalStorage persistence for cart
-✅ Toast notifications on Add / Order
-✅ Product Detail View via React Router
-✅ Quantity Increment / Decrement
-✅ Remove individual items from cart
-✅ Grand Total calculation
-✅ "Order Now" functionality (clears cart)
-✅ Fully responsive (TailwindCSS)
+## 🚀 Features
+
+- ✅ Dynamic Pizza Recipes from [https://dummyjson.com/recipes](https://dummyjson.com/recipes)  
+- ✅ Add to Cart with quantity counter  
+- ✅ LocalStorage persistence for cart  
+- ✅ Toast notifications on Add / Order  
+- ✅ Product Detail View via React Router  
+- ✅ Quantity Increment / Decrement  
+- ✅ Remove individual items from cart  
+- ✅ Grand Total calculation  
+- ✅ "Order Now" functionality (clears cart)  
+- ✅ Fully responsive (TailwindCSS)  
+
+---
+
+## 📂 Project Structure
+
 
 Online Food-App
-
 ├── public/
-│   ├── images/
-│   │   └── screenshot.png      # App preview image
-│   └── index.html
+│ ├── images/
+│ │ └── screenshot.png # App preview image
+│ └── index.html
 ├── src/
-│   ├── components/
-│   │   ├── Toast/
-│   │   │   ├── Toast.css
-│   │   │   └── Toast.js
-│   │   ├── Navigation.js
-│   │   ├── Product.js
-│   │   └── Products.js
-│   ├── pages/
-│   │   ├── Cart.js
-│   │   ├── Home.js
-│   │   ├── ProductsPage.js
-│   │   └── SingleProduct.js
-│   ├── CartContext.js
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
+│ ├── components/
+│ │ ├── Toast/
+│ │ │ ├── Toast.css
+│ │ │ └── Toast.js
+│ │ ├── Navigation.js
+│ │ ├── Product.js
+│ │ └── Products.js
+│ ├── pages/
+│ │ ├── Cart.js
+│ │ ├── Home.js
+│ │ ├── ProductsPage.js
+│ │ └── SingleProduct.js
+│ ├── CartContext.js
+│ ├── App.js
+│ ├── App.css
+│ └── index.js
 ├── package.json
 └── README.md
+
+
+
+
 
