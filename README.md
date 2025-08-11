@@ -2,9 +2,14 @@
 
 A fully functional and beautifully designed React Pizza Cart Application built with Context API, Tailwind CSS, and live toast notifications. Includes cart persistence via localStorage and dynamic product fetching from API.
 
-🔗 Live Demo • Source Code
-📸 Preview
-Pizza App Preview Pizza App Preview Pizza App Preview Pizza App Preview
+Preview:
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 
 🚀 Features
 ✅ Dynamic Pizza Recipes from https://dummyjson.com/recipes
