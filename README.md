@@ -24,8 +24,8 @@ Preview:
 ✅ "Order Now" functionality (clears cart)
 ✅ Fully responsive (TailwindCSS)
 
+Online Food-App
 
-vimal-food-pizza/
 ├── public/
 │   ├── images/
 │   │   └── screenshot.png      # App preview image
@@ -49,3 +49,4 @@ vimal-food-pizza/
 │   └── index.js
 ├── package.json
 └── README.md
+
