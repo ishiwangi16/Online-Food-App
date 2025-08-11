@@ -12,6 +12,7 @@ Preview:
 ![alt text](image-3.png)
 
 🚀 Features
+
 ✅ Dynamic Pizza Recipes from https://dummyjson.com/recipes
 ✅ Add to Cart with quantity counter
 ✅ LocalStorage persistence for cart
@@ -22,10 +23,7 @@ Preview:
 ✅ Grand Total calculation
 ✅ "Order Now" functionality (clears cart)
 ✅ Fully responsive (TailwindCSS)
-⚙️ Tech Stack
-Frontend	Styling	State Management	Routing	Data Source
-React.js	Tailwind CSS	Context API	React Router	DummyJSON API
-🧱 Folder Structure
+
 
 vimal-food-pizza/
 ├── public/
